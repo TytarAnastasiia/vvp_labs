@@ -1,0 +1,8 @@
+C:\nastiia\projects\ВВП\Lab 1\bin\Debug\Lab 1.exe.config
+C:\nastiia\projects\ВВП\Lab 1\bin\Debug\Lab 1.exe
+C:\nastiia\projects\ВВП\Lab 1\bin\Debug\Lab 1.pdb
+C:\nastiia\projects\ВВП\Lab 1\obj\Debug\Lab 1.csproj.AssemblyReference.cache
+C:\nastiia\projects\ВВП\Lab 1\obj\Debug\Lab 1.csproj.SuggestedBindingRedirects.cache
+C:\nastiia\projects\ВВП\Lab 1\obj\Debug\Lab 1.csproj.CoreCompileInputs.cache
+C:\nastiia\projects\ВВП\Lab 1\obj\Debug\Lab 1.exe
+C:\nastiia\projects\ВВП\Lab 1\obj\Debug\Lab 1.pdb
